@@ -1,0 +1,26 @@
+form.insForm label{
+    width: 30%;
+    float: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+form.insForm input{
+    width: 60%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 8px;
+    float: left;
+    
+    
+}
+form.insForm button{
+    width: 200px;
+}
+form.insForm textarea{
+    overflow-y: scroll;
+    float: left;
+   
+    
+    
+}

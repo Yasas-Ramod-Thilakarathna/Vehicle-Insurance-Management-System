@@ -1,0 +1,28 @@
+nav {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    font: 120% system-ui;
+    text-align: left;
+    padding: 2rem 1rem;
+    float: left;
+    background-color: rgba(21, 18, 65, 0);
+    width: 250px;
+    height: 500px;
+  }
+  nav a {
+    text-decoration: none;
+    color: rgb(242, 244, 247);
+    padding-left: 2px;
+   
+  }
+  nav a:hover {
+    font-weight: 900;
+    
+  }
+  nav a i{
+    padding-right: 4px;
+  }
+  
+  
+  
